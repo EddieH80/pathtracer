@@ -20,7 +20,7 @@
 
 ![](customSceneTwo.png)
 
-## Veach Lighting Scene (Light Sampling Techniques on Different Microfacet Surfaces)
+## Veach Lighting Scene
 
 ![](veachBalance.png)
 
