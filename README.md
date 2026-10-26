@@ -1,3 +1,5 @@
+For interest in the code, please reach out to me at eddieh@uchicago.edu
+
 # Monte Carlo Path Tracer Renders
 
 ## Direct Lighting Estimation
